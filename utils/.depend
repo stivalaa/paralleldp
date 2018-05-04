@@ -1,0 +1,10 @@
+bpautils.o: bpautils.c bpautils.h
+httslf.o: httslf.c bpautils.h httslf.h cellpool.h atomicdefs.h
+cellpool.o: cellpool.c cellpool.h atomicdefs.h
+bpautils.o: bpautils.c bpautils.h
+ht.o: ht.c bpautils.h ht.h cellpool.h atomicdefs.h
+cellpool.o: cellpool.c cellpool.h atomicdefs.h
+httest.o: httest.c ht.h bpautils.h
+httslftest.o: httslftest.c httslf.h bpautils.h
+oahttslftest.o: oahttslftest.c oahttslf.h bpautils.h
+oahttslf.o: oahttslf.c bpautils.h oahttslf.h cellpool.h atomicdefs.h

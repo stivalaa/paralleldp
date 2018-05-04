@@ -1,0 +1,25 @@
+bpaglobals.o: bpaglobals.c bpaglobals.h ../../utils/bpautils.h \
+  bpaipsilist.h bpaparse.h
+bpaparse.o: bpaparse.c bpaglobals.h ../../utils/bpautils.h bpaipsilist.h \
+  bpaparse.h
+bpaipsilist.o: bpaipsilist.c bpaglobals.h ../../utils/bpautils.h \
+  bpaipsilist.h bpaparse.h
+parbpamain.o: parbpamain.c bpacommon.h ../../utils/bpautils.h \
+  bpaglobals.h bpaipsilist.h bpaparse.h bpadynprog_cpu.h \
+  bpadynprog_hashthread.h ../../utils/ht.h ../../utils/bpautils.h
+bpadynprog_single.o: bpadynprog_single.c ../../utils/ht.h \
+  ../../utils/bpautils.h bpacommon.h bpaglobals.h ../../utils/bpautils.h \
+  bpaipsilist.h bpaparse.h bpastats.h bpadynprog_cpu.h
+bpadynprog_oahttslf.o: bpadynprog_oahttslf.c ../../utils/oahttslf.h \
+  ../../utils/bpautils.h bpacommon.h bpaglobals.h ../../utils/bpautils.h \
+  bpaipsilist.h bpaparse.h bpastats.h bpadynprog_hashthread.h
+bpadynprog_threadcall.o: bpadynprog_threadcall.c ../../utils/ht.h \
+  ../../utils/bpautils.h bpacommon.h bpaglobals.h ../../utils/bpautils.h \
+  bpaipsilist.h bpaparse.h bpastats.h bpadynprog_cpu.h
+bpadynprog_nbds.o: bpadynprog_nbds.c ../../nbds.0.4.3/include/common.h \
+  ../../nbds.0.4.3/include/lwt.h ../../nbds.0.4.3/include/runtime.h \
+  ../../nbds.0.4.3/include/tls.h ../../nbds.0.4.3/include/mem.h \
+  ../../nbds.0.4.3/include/map.h ../../nbds.0.4.3/include/datatype.h \
+  ../../nbds.0.4.3/include/hashtable.h ../../nbds.0.4.3/include/map.h \
+  bpacommon.h bpaglobals.h ../../utils/bpautils.h bpaipsilist.h \
+  bpaparse.h bpastats.h bpadynprog_hashthread.h

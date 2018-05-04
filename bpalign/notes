@@ -1,0 +1,58 @@
+parbpalign_old is version 2242 of ht.c, before changing to use void*
+and function pointers to make it generic.
+Comparison of old (hardocded structures) and new (generic) hashtable
+times to show overhead of function pointers etc (nb also had to reduce
+hash table siuze from 2^27 to 2^26 since bss overflowed on linking with
+new version):
+
+[astivala@charikar] paralleldp [1:2128] cd bpalign/
+/home/charikar/pgrad/astivala/phd/paralleldp/bpalign
+[astivala@charikar] bpalign [1:2129] !time
+time parbpalign       ~/phd/bpalign/datalist/ts3.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = -168.247194266222
+
+real    0m11.861s
+user    0m11.705s
+sys     0m0.152s
+[astivala@charikar] bpalign [1:2130] time parbpalign_old       ~/phd/bpalign/datalist/ts3.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = -168.247194266222
+
+real    0m8.010s
+user    0m7.890s
+sys     0m0.117s
+[astivala@charikar] bpalign [1:2131] time parbpalign_old       ~/phd/bpalign/datalist/ts9.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = 33.010918652532
+
+real    2m36.375s
+user    2m35.523s
+sys     0m0.799s
+[astivala@charikar] bpalign [1:2132] time parbpalign       ~/phd/bpalign/datalist/ts9.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = 33.010918652532
+
+real    4m12.795s
+user    4m11.714s
+sys     0m1.000s
+[astivala@charikar] bpalign [1:2133] 
+
+
+
+
+
+[astivala@charikar] bpalign [1:2197] time parbpalign  -t1     ~/phd/bpalign/datalist/ts3.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = -168.247194266222
+
+real    0m18.144s
+user    0m18.005s
+sys     0m0.134s
+[astivala@charikar] bpalign [1:2198] time parbpalign_old  -t1     ~/phd/bpalign/datalist/ts3.bplist  ~/phd/bpalign/datalist/ts9.bplist 
+score = -168.247194266222
+
+real    0m12.939s
+user    0m12.812s
+sys     0m0.122s
+
+
+
+
+ADS
+Sat Apr 18 15:19:58 EST 2009

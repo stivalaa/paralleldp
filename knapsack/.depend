@@ -1,0 +1,4 @@
+knapsack_threadcall.o: knapsack_threadcall.c ../utils/bpautils.h \
+  ../utils/httslf.h ../utils/bpautils.h
+knapsack_httslf.o: knapsack_httslf.c ../utils/bpautils.h \
+  ../utils/httslf.h ../utils/bpautils.h

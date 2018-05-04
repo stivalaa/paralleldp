@@ -1,0 +1,1 @@
+ n=1; while [ $n -le 32 ]; do i=1; while [ $i -le 10 ]; do cputrack -c pic0=IC_miss,pic1=Instr_cnt,sys oahttslftest $n > mundara_output/icmisstest_${n}_${i}.out 2> mundara_output/icmisstest_${n}_${i}.err; i=`expr $i + 1`; done; n=`expr $n + 1`; done

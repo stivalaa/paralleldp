@@ -1,0 +1,1000 @@
+generator2 500 500 1 1 100
+test 1: wsum 120116, psum 119481, cap 1189
+generator2 500 500 1 2 100
+test 2: wsum 120116, psum 119481, cap 2378
+generator2 500 500 1 3 100
+test 3: wsum 120116, psum 119481, cap 3567
+generator2 500 500 1 4 100
+test 4: wsum 120116, psum 119481, cap 4757
+generator2 500 500 1 5 100
+test 5: wsum 120116, psum 119481, cap 5946
+generator2 500 500 1 6 100
+test 6: wsum 120116, psum 119481, cap 7135
+generator2 500 500 1 7 100
+test 7: wsum 120116, psum 119481, cap 8324
+generator2 500 500 1 8 100
+test 8: wsum 120116, psum 119481, cap 9514
+generator2 500 500 1 9 100
+test 9: wsum 120116, psum 119481, cap 10703
+generator2 500 500 1 10 100
+test 10: wsum 120116, psum 119481, cap 11892
+generator2 500 500 1 11 100
+test 11: wsum 120116, psum 119481, cap 13081
+generator2 500 500 1 12 100
+test 12: wsum 120116, psum 119481, cap 14271
+generator2 500 500 1 13 100
+test 13: wsum 120116, psum 119481, cap 15460
+generator2 500 500 1 14 100
+test 14: wsum 120116, psum 119481, cap 16649
+generator2 500 500 1 15 100
+test 15: wsum 120116, psum 119481, cap 17839
+generator2 500 500 1 16 100
+test 16: wsum 120116, psum 119481, cap 19028
+generator2 500 500 1 17 100
+test 17: wsum 120116, psum 119481, cap 20217
+generator2 500 500 1 18 100
+test 18: wsum 120116, psum 119481, cap 21406
+generator2 500 500 1 19 100
+test 19: wsum 120116, psum 119481, cap 22596
+generator2 500 500 1 20 100
+test 20: wsum 120116, psum 119481, cap 23785
+generator2 500 500 1 21 100
+test 21: wsum 120116, psum 119481, cap 24974
+generator2 500 500 1 22 100
+test 22: wsum 120116, psum 119481, cap 26163
+generator2 500 500 1 23 100
+test 23: wsum 120116, psum 119481, cap 27353
+generator2 500 500 1 24 100
+test 24: wsum 120116, psum 119481, cap 28542
+generator2 500 500 1 25 100
+test 25: wsum 120116, psum 119481, cap 29731
+generator2 500 500 1 26 100
+test 26: wsum 120116, psum 119481, cap 30920
+generator2 500 500 1 27 100
+test 27: wsum 120116, psum 119481, cap 32110
+generator2 500 500 1 28 100
+test 28: wsum 120116, psum 119481, cap 33299
+generator2 500 500 1 29 100
+test 29: wsum 120116, psum 119481, cap 34488
+generator2 500 500 1 30 100
+test 30: wsum 120116, psum 119481, cap 35678
+generator2 500 500 1 31 100
+test 31: wsum 120116, psum 119481, cap 36867
+generator2 500 500 1 32 100
+test 32: wsum 120116, psum 119481, cap 38056
+generator2 500 500 1 33 100
+test 33: wsum 120116, psum 119481, cap 39245
+generator2 500 500 1 34 100
+test 34: wsum 120116, psum 119481, cap 40435
+generator2 500 500 1 35 100
+test 35: wsum 120116, psum 119481, cap 41624
+generator2 500 500 1 36 100
+test 36: wsum 120116, psum 119481, cap 42813
+generator2 500 500 1 37 100
+test 37: wsum 120116, psum 119481, cap 44002
+generator2 500 500 1 38 100
+test 38: wsum 120116, psum 119481, cap 45192
+generator2 500 500 1 39 100
+test 39: wsum 120116, psum 119481, cap 46381
+generator2 500 500 1 40 100
+test 40: wsum 120116, psum 119481, cap 47570
+generator2 500 500 1 41 100
+test 41: wsum 120116, psum 119481, cap 48759
+generator2 500 500 1 42 100
+test 42: wsum 120116, psum 119481, cap 49949
+generator2 500 500 1 43 100
+test 43: wsum 120116, psum 119481, cap 51138
+generator2 500 500 1 44 100
+test 44: wsum 120116, psum 119481, cap 52327
+generator2 500 500 1 45 100
+test 45: wsum 120116, psum 119481, cap 53517
+generator2 500 500 1 46 100
+test 46: wsum 120116, psum 119481, cap 54706
+generator2 500 500 1 47 100
+test 47: wsum 120116, psum 119481, cap 55895
+generator2 500 500 1 48 100
+test 48: wsum 120116, psum 119481, cap 57084
+generator2 500 500 1 49 100
+test 49: wsum 120116, psum 119481, cap 58274
+generator2 500 500 1 50 100
+test 50: wsum 120116, psum 119481, cap 59463
+generator2 500 500 1 51 100
+test 51: wsum 120116, psum 119481, cap 60652
+generator2 500 500 1 52 100
+test 52: wsum 120116, psum 119481, cap 61841
+generator2 500 500 1 53 100
+test 53: wsum 120116, psum 119481, cap 63031
+generator2 500 500 1 54 100
+test 54: wsum 120116, psum 119481, cap 64220
+generator2 500 500 1 55 100
+test 55: wsum 120116, psum 119481, cap 65409
+generator2 500 500 1 56 100
+test 56: wsum 120116, psum 119481, cap 66598
+generator2 500 500 1 57 100
+test 57: wsum 120116, psum 119481, cap 67788
+generator2 500 500 1 58 100
+test 58: wsum 120116, psum 119481, cap 68977
+generator2 500 500 1 59 100
+test 59: wsum 120116, psum 119481, cap 70166
+generator2 500 500 1 60 100
+test 60: wsum 120116, psum 119481, cap 71356
+generator2 500 500 1 61 100
+test 61: wsum 120116, psum 119481, cap 72545
+generator2 500 500 1 62 100
+test 62: wsum 120116, psum 119481, cap 73734
+generator2 500 500 1 63 100
+test 63: wsum 120116, psum 119481, cap 74923
+generator2 500 500 1 64 100
+test 64: wsum 120116, psum 119481, cap 76113
+generator2 500 500 1 65 100
+test 65: wsum 120116, psum 119481, cap 77302
+generator2 500 500 1 66 100
+test 66: wsum 120116, psum 119481, cap 78491
+generator2 500 500 1 67 100
+test 67: wsum 120116, psum 119481, cap 79680
+generator2 500 500 1 68 100
+test 68: wsum 120116, psum 119481, cap 80870
+generator2 500 500 1 69 100
+test 69: wsum 120116, psum 119481, cap 82059
+generator2 500 500 1 70 100
+test 70: wsum 120116, psum 119481, cap 83248
+generator2 500 500 1 71 100
+test 71: wsum 120116, psum 119481, cap 84437
+generator2 500 500 1 72 100
+test 72: wsum 120116, psum 119481, cap 85627
+generator2 500 500 1 73 100
+test 73: wsum 120116, psum 119481, cap 86816
+generator2 500 500 1 74 100
+test 74: wsum 120116, psum 119481, cap 88005
+generator2 500 500 1 75 100
+test 75: wsum 120116, psum 119481, cap 89195
+generator2 500 500 1 76 100
+test 76: wsum 120116, psum 119481, cap 90384
+generator2 500 500 1 77 100
+test 77: wsum 120116, psum 119481, cap 91573
+generator2 500 500 1 78 100
+test 78: wsum 120116, psum 119481, cap 92762
+generator2 500 500 1 79 100
+test 79: wsum 120116, psum 119481, cap 93952
+generator2 500 500 1 80 100
+test 80: wsum 120116, psum 119481, cap 95141
+generator2 500 500 1 81 100
+test 81: wsum 120116, psum 119481, cap 96330
+generator2 500 500 1 82 100
+test 82: wsum 120116, psum 119481, cap 97519
+generator2 500 500 1 83 100
+test 83: wsum 120116, psum 119481, cap 98709
+generator2 500 500 1 84 100
+test 84: wsum 120116, psum 119481, cap 99898
+generator2 500 500 1 85 100
+test 85: wsum 120116, psum 119481, cap 101087
+generator2 500 500 1 86 100
+test 86: wsum 120116, psum 119481, cap 102276
+generator2 500 500 1 87 100
+test 87: wsum 120116, psum 119481, cap 103466
+generator2 500 500 1 88 100
+test 88: wsum 120116, psum 119481, cap 104655
+generator2 500 500 1 89 100
+test 89: wsum 120116, psum 119481, cap 105844
+generator2 500 500 1 90 100
+test 90: wsum 120116, psum 119481, cap 107034
+generator2 500 500 1 91 100
+test 91: wsum 120116, psum 119481, cap 108223
+generator2 500 500 1 92 100
+test 92: wsum 120116, psum 119481, cap 109412
+generator2 500 500 1 93 100
+test 93: wsum 120116, psum 119481, cap 110601
+generator2 500 500 1 94 100
+test 94: wsum 120116, psum 119481, cap 111791
+generator2 500 500 1 95 100
+test 95: wsum 120116, psum 119481, cap 112980
+generator2 500 500 1 96 100
+test 96: wsum 120116, psum 119481, cap 114169
+generator2 500 500 1 97 100
+test 97: wsum 120116, psum 119481, cap 115358
+generator2 500 500 1 98 100
+test 98: wsum 120116, psum 119481, cap 116548
+generator2 500 500 1 99 100
+test 99: wsum 120116, psum 119481, cap 117737
+generator2 500 500 1 100 100
+test 100: wsum 120116, psum 119481, cap 118926
+generator2 500 500 2 1 100
+test 1: wsum 120116, psum 120708, cap 1189
+generator2 500 500 2 2 100
+test 2: wsum 120116, psum 120708, cap 2378
+generator2 500 500 2 3 100
+test 3: wsum 120116, psum 120708, cap 3567
+generator2 500 500 2 4 100
+test 4: wsum 120116, psum 120708, cap 4757
+generator2 500 500 2 5 100
+test 5: wsum 120116, psum 120708, cap 5946
+generator2 500 500 2 6 100
+test 6: wsum 120116, psum 120708, cap 7135
+generator2 500 500 2 7 100
+test 7: wsum 120116, psum 120708, cap 8324
+generator2 500 500 2 8 100
+test 8: wsum 120116, psum 120708, cap 9514
+generator2 500 500 2 9 100
+test 9: wsum 120116, psum 120708, cap 10703
+generator2 500 500 2 10 100
+test 10: wsum 120116, psum 120708, cap 11892
+generator2 500 500 2 11 100
+test 11: wsum 120116, psum 120708, cap 13081
+generator2 500 500 2 12 100
+test 12: wsum 120116, psum 120708, cap 14271
+generator2 500 500 2 13 100
+test 13: wsum 120116, psum 120708, cap 15460
+generator2 500 500 2 14 100
+test 14: wsum 120116, psum 120708, cap 16649
+generator2 500 500 2 15 100
+test 15: wsum 120116, psum 120708, cap 17839
+generator2 500 500 2 16 100
+test 16: wsum 120116, psum 120708, cap 19028
+generator2 500 500 2 17 100
+test 17: wsum 120116, psum 120708, cap 20217
+generator2 500 500 2 18 100
+test 18: wsum 120116, psum 120708, cap 21406
+generator2 500 500 2 19 100
+test 19: wsum 120116, psum 120708, cap 22596
+generator2 500 500 2 20 100
+test 20: wsum 120116, psum 120708, cap 23785
+generator2 500 500 2 21 100
+test 21: wsum 120116, psum 120708, cap 24974
+generator2 500 500 2 22 100
+test 22: wsum 120116, psum 120708, cap 26163
+generator2 500 500 2 23 100
+test 23: wsum 120116, psum 120708, cap 27353
+generator2 500 500 2 24 100
+test 24: wsum 120116, psum 120708, cap 28542
+generator2 500 500 2 25 100
+test 25: wsum 120116, psum 120708, cap 29731
+generator2 500 500 2 26 100
+test 26: wsum 120116, psum 120708, cap 30920
+generator2 500 500 2 27 100
+test 27: wsum 120116, psum 120708, cap 32110
+generator2 500 500 2 28 100
+test 28: wsum 120116, psum 120708, cap 33299
+generator2 500 500 2 29 100
+test 29: wsum 120116, psum 120708, cap 34488
+generator2 500 500 2 30 100
+test 30: wsum 120116, psum 120708, cap 35678
+generator2 500 500 2 31 100
+test 31: wsum 120116, psum 120708, cap 36867
+generator2 500 500 2 32 100
+test 32: wsum 120116, psum 120708, cap 38056
+generator2 500 500 2 33 100
+test 33: wsum 120116, psum 120708, cap 39245
+generator2 500 500 2 34 100
+test 34: wsum 120116, psum 120708, cap 40435
+generator2 500 500 2 35 100
+test 35: wsum 120116, psum 120708, cap 41624
+generator2 500 500 2 36 100
+test 36: wsum 120116, psum 120708, cap 42813
+generator2 500 500 2 37 100
+test 37: wsum 120116, psum 120708, cap 44002
+generator2 500 500 2 38 100
+test 38: wsum 120116, psum 120708, cap 45192
+generator2 500 500 2 39 100
+test 39: wsum 120116, psum 120708, cap 46381
+generator2 500 500 2 40 100
+test 40: wsum 120116, psum 120708, cap 47570
+generator2 500 500 2 41 100
+test 41: wsum 120116, psum 120708, cap 48759
+generator2 500 500 2 42 100
+test 42: wsum 120116, psum 120708, cap 49949
+generator2 500 500 2 43 100
+test 43: wsum 120116, psum 120708, cap 51138
+generator2 500 500 2 44 100
+test 44: wsum 120116, psum 120708, cap 52327
+generator2 500 500 2 45 100
+test 45: wsum 120116, psum 120708, cap 53517
+generator2 500 500 2 46 100
+test 46: wsum 120116, psum 120708, cap 54706
+generator2 500 500 2 47 100
+test 47: wsum 120116, psum 120708, cap 55895
+generator2 500 500 2 48 100
+test 48: wsum 120116, psum 120708, cap 57084
+generator2 500 500 2 49 100
+test 49: wsum 120116, psum 120708, cap 58274
+generator2 500 500 2 50 100
+test 50: wsum 120116, psum 120708, cap 59463
+generator2 500 500 2 51 100
+test 51: wsum 120116, psum 120708, cap 60652
+generator2 500 500 2 52 100
+test 52: wsum 120116, psum 120708, cap 61841
+generator2 500 500 2 53 100
+test 53: wsum 120116, psum 120708, cap 63031
+generator2 500 500 2 54 100
+test 54: wsum 120116, psum 120708, cap 64220
+generator2 500 500 2 55 100
+test 55: wsum 120116, psum 120708, cap 65409
+generator2 500 500 2 56 100
+test 56: wsum 120116, psum 120708, cap 66598
+generator2 500 500 2 57 100
+test 57: wsum 120116, psum 120708, cap 67788
+generator2 500 500 2 58 100
+test 58: wsum 120116, psum 120708, cap 68977
+generator2 500 500 2 59 100
+test 59: wsum 120116, psum 120708, cap 70166
+generator2 500 500 2 60 100
+test 60: wsum 120116, psum 120708, cap 71356
+generator2 500 500 2 61 100
+test 61: wsum 120116, psum 120708, cap 72545
+generator2 500 500 2 62 100
+test 62: wsum 120116, psum 120708, cap 73734
+generator2 500 500 2 63 100
+test 63: wsum 120116, psum 120708, cap 74923
+generator2 500 500 2 64 100
+test 64: wsum 120116, psum 120708, cap 76113
+generator2 500 500 2 65 100
+test 65: wsum 120116, psum 120708, cap 77302
+generator2 500 500 2 66 100
+test 66: wsum 120116, psum 120708, cap 78491
+generator2 500 500 2 67 100
+test 67: wsum 120116, psum 120708, cap 79680
+generator2 500 500 2 68 100
+test 68: wsum 120116, psum 120708, cap 80870
+generator2 500 500 2 69 100
+test 69: wsum 120116, psum 120708, cap 82059
+generator2 500 500 2 70 100
+test 70: wsum 120116, psum 120708, cap 83248
+generator2 500 500 2 71 100
+test 71: wsum 120116, psum 120708, cap 84437
+generator2 500 500 2 72 100
+test 72: wsum 120116, psum 120708, cap 85627
+generator2 500 500 2 73 100
+test 73: wsum 120116, psum 120708, cap 86816
+generator2 500 500 2 74 100
+test 74: wsum 120116, psum 120708, cap 88005
+generator2 500 500 2 75 100
+test 75: wsum 120116, psum 120708, cap 89195
+generator2 500 500 2 76 100
+test 76: wsum 120116, psum 120708, cap 90384
+generator2 500 500 2 77 100
+test 77: wsum 120116, psum 120708, cap 91573
+generator2 500 500 2 78 100
+test 78: wsum 120116, psum 120708, cap 92762
+generator2 500 500 2 79 100
+test 79: wsum 120116, psum 120708, cap 93952
+generator2 500 500 2 80 100
+test 80: wsum 120116, psum 120708, cap 95141
+generator2 500 500 2 81 100
+test 81: wsum 120116, psum 120708, cap 96330
+generator2 500 500 2 82 100
+test 82: wsum 120116, psum 120708, cap 97519
+generator2 500 500 2 83 100
+test 83: wsum 120116, psum 120708, cap 98709
+generator2 500 500 2 84 100
+test 84: wsum 120116, psum 120708, cap 99898
+generator2 500 500 2 85 100
+test 85: wsum 120116, psum 120708, cap 101087
+generator2 500 500 2 86 100
+test 86: wsum 120116, psum 120708, cap 102276
+generator2 500 500 2 87 100
+test 87: wsum 120116, psum 120708, cap 103466
+generator2 500 500 2 88 100
+test 88: wsum 120116, psum 120708, cap 104655
+generator2 500 500 2 89 100
+test 89: wsum 120116, psum 120708, cap 105844
+generator2 500 500 2 90 100
+test 90: wsum 120116, psum 120708, cap 107034
+generator2 500 500 2 91 100
+test 91: wsum 120116, psum 120708, cap 108223
+generator2 500 500 2 92 100
+test 92: wsum 120116, psum 120708, cap 109412
+generator2 500 500 2 93 100
+test 93: wsum 120116, psum 120708, cap 110601
+generator2 500 500 2 94 100
+test 94: wsum 120116, psum 120708, cap 111791
+generator2 500 500 2 95 100
+test 95: wsum 120116, psum 120708, cap 112980
+generator2 500 500 2 96 100
+test 96: wsum 120116, psum 120708, cap 114169
+generator2 500 500 2 97 100
+test 97: wsum 120116, psum 120708, cap 115358
+generator2 500 500 2 98 100
+test 98: wsum 120116, psum 120708, cap 116548
+generator2 500 500 2 99 100
+test 99: wsum 120116, psum 120708, cap 117737
+generator2 500 500 2 100 100
+test 100: wsum 120116, psum 120708, cap 118926
+generator2 500 500 3 1 100
+test 1: wsum 117736, psum 142736, cap 1165
+generator2 500 500 3 2 100
+test 2: wsum 117736, psum 142736, cap 2331
+generator2 500 500 3 3 100
+test 3: wsum 117736, psum 142736, cap 3497
+generator2 500 500 3 4 100
+test 4: wsum 117736, psum 142736, cap 4662
+generator2 500 500 3 5 100
+test 5: wsum 117736, psum 142736, cap 5828
+generator2 500 500 3 6 100
+test 6: wsum 117736, psum 142736, cap 6994
+generator2 500 500 3 7 100
+test 7: wsum 117736, psum 142736, cap 8159
+generator2 500 500 3 8 100
+test 8: wsum 117736, psum 142736, cap 9325
+generator2 500 500 3 9 100
+test 9: wsum 117736, psum 142736, cap 10491
+generator2 500 500 3 10 100
+test 10: wsum 117736, psum 142736, cap 11657
+generator2 500 500 3 11 100
+test 11: wsum 117736, psum 142736, cap 12822
+generator2 500 500 3 12 100
+test 12: wsum 117736, psum 142736, cap 13988
+generator2 500 500 3 13 100
+test 13: wsum 117736, psum 142736, cap 15154
+generator2 500 500 3 14 100
+test 14: wsum 117736, psum 142736, cap 16319
+generator2 500 500 3 15 100
+test 15: wsum 117736, psum 142736, cap 17485
+generator2 500 500 3 16 100
+test 16: wsum 117736, psum 142736, cap 18651
+generator2 500 500 3 17 100
+test 17: wsum 117736, psum 142736, cap 19816
+generator2 500 500 3 18 100
+test 18: wsum 117736, psum 142736, cap 20982
+generator2 500 500 3 19 100
+test 19: wsum 117736, psum 142736, cap 22148
+generator2 500 500 3 20 100
+test 20: wsum 117736, psum 142736, cap 23314
+generator2 500 500 3 21 100
+test 21: wsum 117736, psum 142736, cap 24479
+generator2 500 500 3 22 100
+test 22: wsum 117736, psum 142736, cap 25645
+generator2 500 500 3 23 100
+test 23: wsum 117736, psum 142736, cap 26811
+generator2 500 500 3 24 100
+test 24: wsum 117736, psum 142736, cap 27976
+generator2 500 500 3 25 100
+test 25: wsum 117736, psum 142736, cap 29142
+generator2 500 500 3 26 100
+test 26: wsum 117736, psum 142736, cap 30308
+generator2 500 500 3 27 100
+test 27: wsum 117736, psum 142736, cap 31473
+generator2 500 500 3 28 100
+test 28: wsum 117736, psum 142736, cap 32639
+generator2 500 500 3 29 100
+test 29: wsum 117736, psum 142736, cap 33805
+generator2 500 500 3 30 100
+test 30: wsum 117736, psum 142736, cap 34971
+generator2 500 500 3 31 100
+test 31: wsum 117736, psum 142736, cap 36136
+generator2 500 500 3 32 100
+test 32: wsum 117736, psum 142736, cap 37302
+generator2 500 500 3 33 100
+test 33: wsum 117736, psum 142736, cap 38468
+generator2 500 500 3 34 100
+test 34: wsum 117736, psum 142736, cap 39633
+generator2 500 500 3 35 100
+test 35: wsum 117736, psum 142736, cap 40799
+generator2 500 500 3 36 100
+test 36: wsum 117736, psum 142736, cap 41965
+generator2 500 500 3 37 100
+test 37: wsum 117736, psum 142736, cap 43131
+generator2 500 500 3 38 100
+test 38: wsum 117736, psum 142736, cap 44296
+generator2 500 500 3 39 100
+test 39: wsum 117736, psum 142736, cap 45462
+generator2 500 500 3 40 100
+test 40: wsum 117736, psum 142736, cap 46628
+generator2 500 500 3 41 100
+test 41: wsum 117736, psum 142736, cap 47793
+generator2 500 500 3 42 100
+test 42: wsum 117736, psum 142736, cap 48959
+generator2 500 500 3 43 100
+test 43: wsum 117736, psum 142736, cap 50125
+generator2 500 500 3 44 100
+test 44: wsum 117736, psum 142736, cap 51290
+generator2 500 500 3 45 100
+test 45: wsum 117736, psum 142736, cap 52456
+generator2 500 500 3 46 100
+test 46: wsum 117736, psum 142736, cap 53622
+generator2 500 500 3 47 100
+test 47: wsum 117736, psum 142736, cap 54788
+generator2 500 500 3 48 100
+test 48: wsum 117736, psum 142736, cap 55953
+generator2 500 500 3 49 100
+test 49: wsum 117736, psum 142736, cap 57119
+generator2 500 500 3 50 100
+test 50: wsum 117736, psum 142736, cap 58285
+generator2 500 500 3 51 100
+test 51: wsum 117736, psum 142736, cap 59450
+generator2 500 500 3 52 100
+test 52: wsum 117736, psum 142736, cap 60616
+generator2 500 500 3 53 100
+test 53: wsum 117736, psum 142736, cap 61782
+generator2 500 500 3 54 100
+test 54: wsum 117736, psum 142736, cap 62947
+generator2 500 500 3 55 100
+test 55: wsum 117736, psum 142736, cap 64113
+generator2 500 500 3 56 100
+test 56: wsum 117736, psum 142736, cap 65279
+generator2 500 500 3 57 100
+test 57: wsum 117736, psum 142736, cap 66445
+generator2 500 500 3 58 100
+test 58: wsum 117736, psum 142736, cap 67610
+generator2 500 500 3 59 100
+test 59: wsum 117736, psum 142736, cap 68776
+generator2 500 500 3 60 100
+test 60: wsum 117736, psum 142736, cap 69942
+generator2 500 500 3 61 100
+test 61: wsum 117736, psum 142736, cap 71107
+generator2 500 500 3 62 100
+test 62: wsum 117736, psum 142736, cap 72273
+generator2 500 500 3 63 100
+test 63: wsum 117736, psum 142736, cap 73439
+generator2 500 500 3 64 100
+test 64: wsum 117736, psum 142736, cap 74604
+generator2 500 500 3 65 100
+test 65: wsum 117736, psum 142736, cap 75770
+generator2 500 500 3 66 100
+test 66: wsum 117736, psum 142736, cap 76936
+generator2 500 500 3 67 100
+test 67: wsum 117736, psum 142736, cap 78102
+generator2 500 500 3 68 100
+test 68: wsum 117736, psum 142736, cap 79267
+generator2 500 500 3 69 100
+test 69: wsum 117736, psum 142736, cap 80433
+generator2 500 500 3 70 100
+test 70: wsum 117736, psum 142736, cap 81599
+generator2 500 500 3 71 100
+test 71: wsum 117736, psum 142736, cap 82764
+generator2 500 500 3 72 100
+test 72: wsum 117736, psum 142736, cap 83930
+generator2 500 500 3 73 100
+test 73: wsum 117736, psum 142736, cap 85096
+generator2 500 500 3 74 100
+test 74: wsum 117736, psum 142736, cap 86262
+generator2 500 500 3 75 100
+test 75: wsum 117736, psum 142736, cap 87427
+generator2 500 500 3 76 100
+test 76: wsum 117736, psum 142736, cap 88593
+generator2 500 500 3 77 100
+test 77: wsum 117736, psum 142736, cap 89759
+generator2 500 500 3 78 100
+test 78: wsum 117736, psum 142736, cap 90924
+generator2 500 500 3 79 100
+test 79: wsum 117736, psum 142736, cap 92090
+generator2 500 500 3 80 100
+test 80: wsum 117736, psum 142736, cap 93256
+generator2 500 500 3 81 100
+test 81: wsum 117736, psum 142736, cap 94421
+generator2 500 500 3 82 100
+test 82: wsum 117736, psum 142736, cap 95587
+generator2 500 500 3 83 100
+test 83: wsum 117736, psum 142736, cap 96753
+generator2 500 500 3 84 100
+test 84: wsum 117736, psum 142736, cap 97919
+generator2 500 500 3 85 100
+test 85: wsum 117736, psum 142736, cap 99084
+generator2 500 500 3 86 100
+test 86: wsum 117736, psum 142736, cap 100250
+generator2 500 500 3 87 100
+test 87: wsum 117736, psum 142736, cap 101416
+generator2 500 500 3 88 100
+test 88: wsum 117736, psum 142736, cap 102581
+generator2 500 500 3 89 100
+test 89: wsum 117736, psum 142736, cap 103747
+generator2 500 500 3 90 100
+test 90: wsum 117736, psum 142736, cap 104913
+generator2 500 500 3 91 100
+test 91: wsum 117736, psum 142736, cap 106078
+generator2 500 500 3 92 100
+test 92: wsum 117736, psum 142736, cap 107244
+generator2 500 500 3 93 100
+test 93: wsum 117736, psum 142736, cap 108410
+generator2 500 500 3 94 100
+test 94: wsum 117736, psum 142736, cap 109576
+generator2 500 500 3 95 100
+test 95: wsum 117736, psum 142736, cap 110741
+generator2 500 500 3 96 100
+test 96: wsum 117736, psum 142736, cap 111907
+generator2 500 500 3 97 100
+test 97: wsum 117736, psum 142736, cap 113073
+generator2 500 500 3 98 100
+test 98: wsum 117736, psum 142736, cap 114238
+generator2 500 500 3 99 100
+test 99: wsum 117736, psum 142736, cap 115404
+generator2 500 500 3 100 100
+test 100: wsum 117736, psum 142736, cap 116570
+generator2 500 500 4 1 100
+test 1: wsum 142736, psum 117736, cap 1413
+generator2 500 500 4 2 100
+test 2: wsum 142736, psum 117736, cap 2826
+generator2 500 500 4 3 100
+test 3: wsum 142736, psum 117736, cap 4239
+generator2 500 500 4 4 100
+test 4: wsum 142736, psum 117736, cap 5652
+generator2 500 500 4 5 100
+test 5: wsum 142736, psum 117736, cap 7066
+generator2 500 500 4 6 100
+test 6: wsum 142736, psum 117736, cap 8479
+generator2 500 500 4 7 100
+test 7: wsum 142736, psum 117736, cap 9892
+generator2 500 500 4 8 100
+test 8: wsum 142736, psum 117736, cap 11305
+generator2 500 500 4 9 100
+test 9: wsum 142736, psum 117736, cap 12719
+generator2 500 500 4 10 100
+test 10: wsum 142736, psum 117736, cap 14132
+generator2 500 500 4 11 100
+test 11: wsum 142736, psum 117736, cap 15545
+generator2 500 500 4 12 100
+test 12: wsum 142736, psum 117736, cap 16958
+generator2 500 500 4 13 100
+test 13: wsum 142736, psum 117736, cap 18371
+generator2 500 500 4 14 100
+test 14: wsum 142736, psum 117736, cap 19785
+generator2 500 500 4 15 100
+test 15: wsum 142736, psum 117736, cap 21198
+generator2 500 500 4 16 100
+test 16: wsum 142736, psum 117736, cap 22611
+generator2 500 500 4 17 100
+test 17: wsum 142736, psum 117736, cap 24024
+generator2 500 500 4 18 100
+test 18: wsum 142736, psum 117736, cap 25438
+generator2 500 500 4 19 100
+test 19: wsum 142736, psum 117736, cap 26851
+generator2 500 500 4 20 100
+test 20: wsum 142736, psum 117736, cap 28264
+generator2 500 500 4 21 100
+test 21: wsum 142736, psum 117736, cap 29677
+generator2 500 500 4 22 100
+test 22: wsum 142736, psum 117736, cap 31091
+generator2 500 500 4 23 100
+test 23: wsum 142736, psum 117736, cap 32504
+generator2 500 500 4 24 100
+test 24: wsum 142736, psum 117736, cap 33917
+generator2 500 500 4 25 100
+test 25: wsum 142736, psum 117736, cap 35330
+generator2 500 500 4 26 100
+test 26: wsum 142736, psum 117736, cap 36743
+generator2 500 500 4 27 100
+test 27: wsum 142736, psum 117736, cap 38157
+generator2 500 500 4 28 100
+test 28: wsum 142736, psum 117736, cap 39570
+generator2 500 500 4 29 100
+test 29: wsum 142736, psum 117736, cap 40983
+generator2 500 500 4 30 100
+test 30: wsum 142736, psum 117736, cap 42396
+generator2 500 500 4 31 100
+test 31: wsum 142736, psum 117736, cap 43810
+generator2 500 500 4 32 100
+test 32: wsum 142736, psum 117736, cap 45223
+generator2 500 500 4 33 100
+test 33: wsum 142736, psum 117736, cap 46636
+generator2 500 500 4 34 100
+test 34: wsum 142736, psum 117736, cap 48049
+generator2 500 500 4 35 100
+test 35: wsum 142736, psum 117736, cap 49462
+generator2 500 500 4 36 100
+test 36: wsum 142736, psum 117736, cap 50876
+generator2 500 500 4 37 100
+test 37: wsum 142736, psum 117736, cap 52289
+generator2 500 500 4 38 100
+test 38: wsum 142736, psum 117736, cap 53702
+generator2 500 500 4 39 100
+test 39: wsum 142736, psum 117736, cap 55115
+generator2 500 500 4 40 100
+test 40: wsum 142736, psum 117736, cap 56529
+generator2 500 500 4 41 100
+test 41: wsum 142736, psum 117736, cap 57942
+generator2 500 500 4 42 100
+test 42: wsum 142736, psum 117736, cap 59355
+generator2 500 500 4 43 100
+test 43: wsum 142736, psum 117736, cap 60768
+generator2 500 500 4 44 100
+test 44: wsum 142736, psum 117736, cap 62182
+generator2 500 500 4 45 100
+test 45: wsum 142736, psum 117736, cap 63595
+generator2 500 500 4 46 100
+test 46: wsum 142736, psum 117736, cap 65008
+generator2 500 500 4 47 100
+test 47: wsum 142736, psum 117736, cap 66421
+generator2 500 500 4 48 100
+test 48: wsum 142736, psum 117736, cap 67834
+generator2 500 500 4 49 100
+test 49: wsum 142736, psum 117736, cap 69248
+generator2 500 500 4 50 100
+test 50: wsum 142736, psum 117736, cap 70661
+generator2 500 500 4 51 100
+test 51: wsum 142736, psum 117736, cap 72074
+generator2 500 500 4 52 100
+test 52: wsum 142736, psum 117736, cap 73487
+generator2 500 500 4 53 100
+test 53: wsum 142736, psum 117736, cap 74901
+generator2 500 500 4 54 100
+test 54: wsum 142736, psum 117736, cap 76314
+generator2 500 500 4 55 100
+test 55: wsum 142736, psum 117736, cap 77727
+generator2 500 500 4 56 100
+test 56: wsum 142736, psum 117736, cap 79140
+generator2 500 500 4 57 100
+test 57: wsum 142736, psum 117736, cap 80553
+generator2 500 500 4 58 100
+test 58: wsum 142736, psum 117736, cap 81967
+generator2 500 500 4 59 100
+test 59: wsum 142736, psum 117736, cap 83380
+generator2 500 500 4 60 100
+test 60: wsum 142736, psum 117736, cap 84793
+generator2 500 500 4 61 100
+test 61: wsum 142736, psum 117736, cap 86206
+generator2 500 500 4 62 100
+test 62: wsum 142736, psum 117736, cap 87620
+generator2 500 500 4 63 100
+test 63: wsum 142736, psum 117736, cap 89033
+generator2 500 500 4 64 100
+test 64: wsum 142736, psum 117736, cap 90446
+generator2 500 500 4 65 100
+test 65: wsum 142736, psum 117736, cap 91859
+generator2 500 500 4 66 100
+test 66: wsum 142736, psum 117736, cap 93273
+generator2 500 500 4 67 100
+test 67: wsum 142736, psum 117736, cap 94686
+generator2 500 500 4 68 100
+test 68: wsum 142736, psum 117736, cap 96099
+generator2 500 500 4 69 100
+test 69: wsum 142736, psum 117736, cap 97512
+generator2 500 500 4 70 100
+test 70: wsum 142736, psum 117736, cap 98925
+generator2 500 500 4 71 100
+test 71: wsum 142736, psum 117736, cap 100339
+generator2 500 500 4 72 100
+test 72: wsum 142736, psum 117736, cap 101752
+generator2 500 500 4 73 100
+test 73: wsum 142736, psum 117736, cap 103165
+generator2 500 500 4 74 100
+test 74: wsum 142736, psum 117736, cap 104578
+generator2 500 500 4 75 100
+test 75: wsum 142736, psum 117736, cap 105992
+generator2 500 500 4 76 100
+test 76: wsum 142736, psum 117736, cap 107405
+generator2 500 500 4 77 100
+test 77: wsum 142736, psum 117736, cap 108818
+generator2 500 500 4 78 100
+test 78: wsum 142736, psum 117736, cap 110231
+generator2 500 500 4 79 100
+test 79: wsum 142736, psum 117736, cap 111644
+generator2 500 500 4 80 100
+test 80: wsum 142736, psum 117736, cap 113058
+generator2 500 500 4 81 100
+test 81: wsum 142736, psum 117736, cap 114471
+generator2 500 500 4 82 100
+test 82: wsum 142736, psum 117736, cap 115884
+generator2 500 500 4 83 100
+test 83: wsum 142736, psum 117736, cap 117297
+generator2 500 500 4 84 100
+test 84: wsum 142736, psum 117736, cap 118711
+generator2 500 500 4 85 100
+test 85: wsum 142736, psum 117736, cap 120124
+generator2 500 500 4 86 100
+test 86: wsum 142736, psum 117736, cap 121537
+generator2 500 500 4 87 100
+test 87: wsum 142736, psum 117736, cap 122950
+generator2 500 500 4 88 100
+test 88: wsum 142736, psum 117736, cap 124364
+generator2 500 500 4 89 100
+test 89: wsum 142736, psum 117736, cap 125777
+generator2 500 500 4 90 100
+test 90: wsum 142736, psum 117736, cap 127190
+generator2 500 500 4 91 100
+test 91: wsum 142736, psum 117736, cap 128603
+generator2 500 500 4 92 100
+test 92: wsum 142736, psum 117736, cap 130016
+generator2 500 500 4 93 100
+test 93: wsum 142736, psum 117736, cap 131430
+generator2 500 500 4 94 100
+test 94: wsum 142736, psum 117736, cap 132843
+generator2 500 500 4 95 100
+test 95: wsum 142736, psum 117736, cap 134256
+generator2 500 500 4 96 100
+test 96: wsum 142736, psum 117736, cap 135669
+generator2 500 500 4 97 100
+test 97: wsum 142736, psum 117736, cap 137083
+generator2 500 500 4 98 100
+test 98: wsum 142736, psum 117736, cap 138496
+generator2 500 500 4 99 100
+test 99: wsum 142736, psum 117736, cap 139909
+generator2 500 500 4 100 100
+test 100: wsum 142736, psum 117736, cap 141322
+generator2 500 500 5 1 100
+test 1: wsum 120116, psum 145375, cap 1189
+generator2 500 500 5 2 100
+test 2: wsum 120116, psum 145375, cap 2378
+generator2 500 500 5 3 100
+test 3: wsum 120116, psum 145375, cap 3567
+generator2 500 500 5 4 100
+test 4: wsum 120116, psum 145375, cap 4757
+generator2 500 500 5 5 100
+test 5: wsum 120116, psum 145375, cap 5946
+generator2 500 500 5 6 100
+test 6: wsum 120116, psum 145375, cap 7135
+generator2 500 500 5 7 100
+test 7: wsum 120116, psum 145375, cap 8324
+generator2 500 500 5 8 100
+test 8: wsum 120116, psum 145375, cap 9514
+generator2 500 500 5 9 100
+test 9: wsum 120116, psum 145375, cap 10703
+generator2 500 500 5 10 100
+test 10: wsum 120116, psum 145375, cap 11892
+generator2 500 500 5 11 100
+test 11: wsum 120116, psum 145375, cap 13081
+generator2 500 500 5 12 100
+test 12: wsum 120116, psum 145375, cap 14271
+generator2 500 500 5 13 100
+test 13: wsum 120116, psum 145375, cap 15460
+generator2 500 500 5 14 100
+test 14: wsum 120116, psum 145375, cap 16649
+generator2 500 500 5 15 100
+test 15: wsum 120116, psum 145375, cap 17839
+generator2 500 500 5 16 100
+test 16: wsum 120116, psum 145375, cap 19028
+generator2 500 500 5 17 100
+test 17: wsum 120116, psum 145375, cap 20217
+generator2 500 500 5 18 100
+test 18: wsum 120116, psum 145375, cap 21406
+generator2 500 500 5 19 100
+test 19: wsum 120116, psum 145375, cap 22596
+generator2 500 500 5 20 100
+test 20: wsum 120116, psum 145375, cap 23785
+generator2 500 500 5 21 100
+test 21: wsum 120116, psum 145375, cap 24974
+generator2 500 500 5 22 100
+test 22: wsum 120116, psum 145375, cap 26163
+generator2 500 500 5 23 100
+test 23: wsum 120116, psum 145375, cap 27353
+generator2 500 500 5 24 100
+test 24: wsum 120116, psum 145375, cap 28542
+generator2 500 500 5 25 100
+test 25: wsum 120116, psum 145375, cap 29731
+generator2 500 500 5 26 100
+test 26: wsum 120116, psum 145375, cap 30920
+generator2 500 500 5 27 100
+test 27: wsum 120116, psum 145375, cap 32110
+generator2 500 500 5 28 100
+test 28: wsum 120116, psum 145375, cap 33299
+generator2 500 500 5 29 100
+test 29: wsum 120116, psum 145375, cap 34488
+generator2 500 500 5 30 100
+test 30: wsum 120116, psum 145375, cap 35678
+generator2 500 500 5 31 100
+test 31: wsum 120116, psum 145375, cap 36867
+generator2 500 500 5 32 100
+test 32: wsum 120116, psum 145375, cap 38056
+generator2 500 500 5 33 100
+test 33: wsum 120116, psum 145375, cap 39245
+generator2 500 500 5 34 100
+test 34: wsum 120116, psum 145375, cap 40435
+generator2 500 500 5 35 100
+test 35: wsum 120116, psum 145375, cap 41624
+generator2 500 500 5 36 100
+test 36: wsum 120116, psum 145375, cap 42813
+generator2 500 500 5 37 100
+test 37: wsum 120116, psum 145375, cap 44002
+generator2 500 500 5 38 100
+test 38: wsum 120116, psum 145375, cap 45192
+generator2 500 500 5 39 100
+test 39: wsum 120116, psum 145375, cap 46381
+generator2 500 500 5 40 100
+test 40: wsum 120116, psum 145375, cap 47570
+generator2 500 500 5 41 100
+test 41: wsum 120116, psum 145375, cap 48759
+generator2 500 500 5 42 100
+test 42: wsum 120116, psum 145375, cap 49949
+generator2 500 500 5 43 100
+test 43: wsum 120116, psum 145375, cap 51138
+generator2 500 500 5 44 100
+test 44: wsum 120116, psum 145375, cap 52327
+generator2 500 500 5 45 100
+test 45: wsum 120116, psum 145375, cap 53517
+generator2 500 500 5 46 100
+test 46: wsum 120116, psum 145375, cap 54706
+generator2 500 500 5 47 100
+test 47: wsum 120116, psum 145375, cap 55895
+generator2 500 500 5 48 100
+test 48: wsum 120116, psum 145375, cap 57084
+generator2 500 500 5 49 100
+test 49: wsum 120116, psum 145375, cap 58274
+generator2 500 500 5 50 100
+test 50: wsum 120116, psum 145375, cap 59463
+generator2 500 500 5 51 100
+test 51: wsum 120116, psum 145375, cap 60652
+generator2 500 500 5 52 100
+test 52: wsum 120116, psum 145375, cap 61841
+generator2 500 500 5 53 100
+test 53: wsum 120116, psum 145375, cap 63031
+generator2 500 500 5 54 100
+test 54: wsum 120116, psum 145375, cap 64220
+generator2 500 500 5 55 100
+test 55: wsum 120116, psum 145375, cap 65409
+generator2 500 500 5 56 100
+test 56: wsum 120116, psum 145375, cap 66598
+generator2 500 500 5 57 100
+test 57: wsum 120116, psum 145375, cap 67788
+generator2 500 500 5 58 100
+test 58: wsum 120116, psum 145375, cap 68977
+generator2 500 500 5 59 100
+test 59: wsum 120116, psum 145375, cap 70166
+generator2 500 500 5 60 100
+test 60: wsum 120116, psum 145375, cap 71356
+generator2 500 500 5 61 100
+test 61: wsum 120116, psum 145375, cap 72545
+generator2 500 500 5 62 100
+test 62: wsum 120116, psum 145375, cap 73734
+generator2 500 500 5 63 100
+test 63: wsum 120116, psum 145375, cap 74923
+generator2 500 500 5 64 100
+test 64: wsum 120116, psum 145375, cap 76113
+generator2 500 500 5 65 100
+test 65: wsum 120116, psum 145375, cap 77302
+generator2 500 500 5 66 100
+test 66: wsum 120116, psum 145375, cap 78491
+generator2 500 500 5 67 100
+test 67: wsum 120116, psum 145375, cap 79680
+generator2 500 500 5 68 100
+test 68: wsum 120116, psum 145375, cap 80870
+generator2 500 500 5 69 100
+test 69: wsum 120116, psum 145375, cap 82059
+generator2 500 500 5 70 100
+test 70: wsum 120116, psum 145375, cap 83248
+generator2 500 500 5 71 100
+test 71: wsum 120116, psum 145375, cap 84437
+generator2 500 500 5 72 100
+test 72: wsum 120116, psum 145375, cap 85627
+generator2 500 500 5 73 100
+test 73: wsum 120116, psum 145375, cap 86816
+generator2 500 500 5 74 100
+test 74: wsum 120116, psum 145375, cap 88005
+generator2 500 500 5 75 100
+test 75: wsum 120116, psum 145375, cap 89195
+generator2 500 500 5 76 100
+test 76: wsum 120116, psum 145375, cap 90384
+generator2 500 500 5 77 100
+test 77: wsum 120116, psum 145375, cap 91573
+generator2 500 500 5 78 100
+test 78: wsum 120116, psum 145375, cap 92762
+generator2 500 500 5 79 100
+test 79: wsum 120116, psum 145375, cap 93952
+generator2 500 500 5 80 100
+test 80: wsum 120116, psum 145375, cap 95141
+generator2 500 500 5 81 100
+test 81: wsum 120116, psum 145375, cap 96330
+generator2 500 500 5 82 100
+test 82: wsum 120116, psum 145375, cap 97519
+generator2 500 500 5 83 100
+test 83: wsum 120116, psum 145375, cap 98709
+generator2 500 500 5 84 100
+test 84: wsum 120116, psum 145375, cap 99898
+generator2 500 500 5 85 100
+test 85: wsum 120116, psum 145375, cap 101087
+generator2 500 500 5 86 100
+test 86: wsum 120116, psum 145375, cap 102276
+generator2 500 500 5 87 100
+test 87: wsum 120116, psum 145375, cap 103466
+generator2 500 500 5 88 100
+test 88: wsum 120116, psum 145375, cap 104655
+generator2 500 500 5 89 100
+test 89: wsum 120116, psum 145375, cap 105844
+generator2 500 500 5 90 100
+test 90: wsum 120116, psum 145375, cap 107034
+generator2 500 500 5 91 100
+test 91: wsum 120116, psum 145375, cap 108223
+generator2 500 500 5 92 100
+test 92: wsum 120116, psum 145375, cap 109412
+generator2 500 500 5 93 100
+test 93: wsum 120116, psum 145375, cap 110601
+generator2 500 500 5 94 100
+test 94: wsum 120116, psum 145375, cap 111791
+generator2 500 500 5 95 100
+test 95: wsum 120116, psum 145375, cap 112980
+generator2 500 500 5 96 100
+test 96: wsum 120116, psum 145375, cap 114169
+generator2 500 500 5 97 100
+test 97: wsum 120116, psum 145375, cap 115358
+generator2 500 500 5 98 100
+test 98: wsum 120116, psum 145375, cap 116548
+generator2 500 500 5 99 100
+test 99: wsum 120116, psum 145375, cap 117737
+generator2 500 500 5 100 100
+test 100: wsum 120116, psum 145375, cap 118926

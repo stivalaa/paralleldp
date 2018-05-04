@@ -1,0 +1,276 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ns/call  ns/call  name    
+ 21.47      1.67     1.67                             oahttslf_insert (oahttslf.c:194 @ 10002fe8)
+ 20.18      3.24     1.57                             oahttslf_getent (oahttslf.c:291 @ 10003308)
+ 18.64      4.69     1.45                             oahttslf_getent (oahttslf.c:290 @ 100032b0)
+  5.91      5.15     0.46                             oahttslf_insert (oahttslf.c:226 @ 10003108)
+  2.44      5.34     0.19                             dp_knapsack (knapsack_oahttslf.c:329 @ 10001710)
+  1.80      5.48     0.14                             oahttslf_getent (oahttslf.c:289 @ 10003294)
+  1.54      5.60     0.12                             hash6432shift (oahttslf.c:127 @ 10002e64)
+  1.54      5.72     0.12                             hash_function (oahttslf.c:139 @ 10002ec0)
+  1.29      5.82     0.10                             dp_knapsack (knapsack_oahttslf.c:320 @ 100016b0)
+  1.16      5.91     0.09                             hash_function (oahttslf.c:147 @ 10002ee8)
+  1.16      6.00     0.09                             oahttslf_getent (oahttslf.c:288 @ 10003284)
+  1.03      6.08     0.08                             dp_knapsack (knapsack_oahttslf.c:355 @ 100019ac)
+  1.03      6.16     0.08                             hash6432shift (oahttslf.c:122 @ 10002df4)
+  1.03      6.24     0.08                             oahttslf_lookup_indices (knapsack_oahttslf.c:215 @ 10001420)
+  0.90      6.31     0.07                             hash6432shift (oahttslf.c:129 @ 10002e7c)
+  0.90      6.38     0.07                             oahttslf_lookup_indices (knapsack_oahttslf.c:211 @ 100013f0)
+  0.90      6.45     0.07                             oahttslf_lookup_indices (knapsack_oahttslf.c:218 @ 10001484)
+  0.77      6.51     0.06                             hash6432shift (oahttslf.c:123 @ 10002e0c)
+  0.77      6.57     0.06                             hash6432shift (oahttslf.c:124 @ 10002e20)
+  0.77      6.63     0.06                             hash_function (oahttslf.c:146 @ 10002ee0)
+  0.77      6.69     0.06                             oahttslf_getent (oahttslf.c:298 @ 10003338)
+  0.77      6.75     0.06                             oahttslf_insert (oahttslf.c:231 @ 1000316c)
+  0.64      6.80     0.05   420938   118.78   118.78  .dp_knapsack (knapsack_oahttslf.c:308 @ 10001618)
+  0.64      6.85     0.05                             dp_knapsack (knapsack_oahttslf.c:338 @ 100017ec)
+  0.64      6.90     0.05                             dp_knapsack (knapsack_oahttslf.c:343 @ 1000187c)
+  0.51      6.94     0.04   714648    55.97    55.97  .bpa_log_msg (bpautils.c:58 @ 10003d78)
+  0.51      6.98     0.04                             bpa_log_msg (bpautils.c:68 @ 10003e0c)
+  0.51      7.02     0.04                             hash6432shift (oahttslf.c:125 @ 10002e3c)
+  0.51      7.06     0.04                             hash_function (oahttslf.c:134 @ 10002ea0)
+  0.51      7.10     0.04                             oahttslf_getent (oahttslf.c:305 @ 1000338c)
+  0.51      7.14     0.04                             oahttslf_lookup (oahttslf.c:252 @ 100031c0)
+  0.51      7.18     0.04                             oahttslf_lookup_indices (knapsack_oahttslf.c:217 @ 10001468)
+  0.39      7.21     0.03   403431    74.36    74.36  .oahttslf_insert (oahttslf.c:176 @ 10002f0c)
+  0.39      7.24     0.03                             dp_knapsack (knapsack_oahttslf.c:325 @ 100016ec)
+  0.39      7.27     0.03                             dp_knapsack (knapsack_oahttslf.c:347 @ 10001940)
+  0.39      7.30     0.03                             dp_knapsack (knapsack_oahttslf.c:352 @ 10001970)
+  0.39      7.33     0.03                             oahttslf_getent (oahttslf.c:303 @ 10003374)
+  0.39      7.36     0.03                             oahttslf_lookup (oahttslf.c:255 @ 100031e8)
+  0.26      7.38     0.02   671174    29.80    29.80  .oahttslf_lookup (oahttslf.c:247 @ 1000319c)
+  0.26      7.40     0.02                             dp_knapsack (knapsack_oahttslf.c:359 @ 10001a24)
+  0.26      7.42     0.02                             hash6432shift (oahttslf.c:126 @ 10002e50)
+  0.26      7.44     0.02                             oahttslf_getent (oahttslf.c:300 @ 10003358)
+  0.26      7.46     0.02                             oahttslf_getent (oahttslf.c:304 @ 10003380)
+  0.26      7.48     0.02                             oahttslf_insert (oahttslf.c:185 @ 10002f80)
+  0.26      7.50     0.02                             oahttslf_insert (oahttslf.c:212 @ 1000307c)
+  0.26      7.52     0.02                             oahttslf_insert_indices (knapsack_oahttslf.c:189 @ 10001340)
+  0.26      7.54     0.02                             oahttslf_insert_indices (knapsack_oahttslf.c:192 @ 100013b4)
+  0.26      7.56     0.02                             oahttslf_insert_indices (knapsack_oahttslf.c:193 @ 100013d0)
+  0.26      7.58     0.02                             oahttslf_lookup (oahttslf.c:263 @ 10003234)
+  0.13      7.59     0.01  1063836     9.40     9.40  .oahttslf_getent (oahttslf.c:282 @ 10003258)
+  0.13      7.60     0.01                             bpa_log_msg (bpautils.c:62 @ 10003dbc)
+  0.13      7.61     0.01                             dp_knapsack (knapsack_oahttslf.c:313 @ 10001650)
+  0.13      7.62     0.01                             dp_knapsack (knapsack_oahttslf.c:322 @ 100016dc)
+  0.13      7.63     0.01                             dp_knapsack (knapsack_oahttslf.c:335 @ 1000177c)
+  0.13      7.64     0.01                             dp_knapsack (knapsack_oahttslf.c:337 @ 100017b4)
+  0.13      7.65     0.01                             hash6432shift (oahttslf.c:121 @ 10002dd4)
+  0.13      7.66     0.01                             oahttslf_getent (oahttslf.c:295 @ 100032e0)
+  0.13      7.67     0.01                             oahttslf_insert (oahttslf.c:190 @ 10002fc0)
+  0.13      7.68     0.01                             oahttslf_insert (oahttslf.c:192 @ 10002fd8)
+  0.13      7.69     0.01                             oahttslf_insert (oahttslf.c:196 @ 1000301c)
+  0.13      7.70     0.01                             oahttslf_insert (oahttslf.c:209 @ 10003074)
+  0.13      7.71     0.01                             oahttslf_insert (oahttslf.c:225 @ 100030fc)
+  0.13      7.72     0.01                             oahttslf_insert (oahttslf.c:232 @ 10003178)
+  0.13      7.73     0.01                             oahttslf_insert_indices (knapsack_oahttslf.c:186 @ 10001304)
+  0.13      7.74     0.01                             oahttslf_lookup (oahttslf.c:253 @ 100031dc)
+  0.13      7.75     0.01                             oahttslf_lookup (oahttslf.c:256 @ 100031f4)
+  0.13      7.76     0.01                             oahttslf_lookup (oahttslf.c:262 @ 10003228)
+  0.13      7.77     0.01                             oahttslf_lookup_indices (knapsack_oahttslf.c:220 @ 100014c4)
+  0.13      7.78     0.01                             oahttslf_lookup_indices (knapsack_oahttslf.c:221 @ 100014cc)
+  0.00      7.78     0.00  2166307     0.00     0.00  .main (knapsack_oahttslf.c:548 @ 10002090)
+  0.00      7.78     0.00   929463     0.00     0.00  .__gmon_start__
+  0.00      7.78     0.00        5     0.00     0.00  data_start
+  0.00      7.78     0.00        1     0.00     0.00  .bpa_malloc (bpautils.c:74 @ 10003e2c)
+  0.00      7.78     0.00        1     0.00     0.00  .oahttslf_total_key_count (oahttslf.c:421 @ 1000378c)
+  0.00      7.78     0.00        1     0.00     0.00  .oahttslf_total_retry_count (oahttslf.c:438 @ 10003828)
+  0.00      7.78     0.00        1     0.00     0.00  .timeval_subtract (bpautils.c:130 @ 10004000)
+
+ %         the percentage of the total running time of the
+time       program used by this function.
+
+cumulative a running sum of the number of seconds accounted
+ seconds   for by this function and those listed above it.
+
+ self      the number of seconds accounted for by this
+seconds    function alone.  This is the major sort for this
+           listing.
+
+calls      the number of times this function was invoked, if
+           this function is profiled, else blank.
+ 
+ self      the average number of milliseconds spent in this
+ms/call    function per call, if this function is profiled,
+	   else blank.
+
+ total     the average number of milliseconds spent in this
+ms/call    function and its descendents per call, if this 
+	   function is profiled, else blank.
+
+name       the name of the function.  This is the minor sort
+           for this listing. The index shows the location of
+	   the function in the gprof listing. If the index is
+	   in parenthesis it shows where it would appear in
+	   the gprof listing if it were to be printed.
+
+		     Call graph (explanation follows)
+
+
+granularity: each sample hit covers 4 byte(s) for 0.13% of 7.78 seconds
+
+index % time    self  children    called     name
+                0.00    0.00       1/420938      main (knapsack_oahttslf.c:642 @ 10002510) [76]
+                0.00    0.00       2/420938      main (knapsack_oahttslf.c:630 @ 100023c0) [75]
+                0.00    0.00       6/420938      dp_knapsack_thread (knapsack_oahttslf.c:261 @ 1000154c) [74]
+                0.01    0.00   82792/420938      dp_knapsack (knapsack_oahttslf.c:331 @ 10001740) [71]
+                0.01    0.00   83434/420938      dp_knapsack (knapsack_oahttslf.c:343 @ 1000187c) [25]
+                0.01    0.00   84211/420938      dp_knapsack (knapsack_oahttslf.c:337 @ 100017b4) [42]
+                0.01    0.00   84277/420938      dp_knapsack (knapsack_oahttslf.c:345 @ 10001908) [52]
+                0.01    0.00   86215/420938      dp_knapsack (knapsack_oahttslf.c:338 @ 100017ec) [18]
+[26]     0.6    0.05    0.00  420938         .dp_knapsack (knapsack_oahttslf.c:308 @ 10001618) [26]
+-----------------------------------------------
+                0.01    0.00  255015/714648      dp_knapsack (knapsack_oahttslf.c:352 @ 10001970) [29]
+                0.03    0.00  459633/714648      dp_knapsack (knapsack_oahttslf.c:313 @ 10001650) [35]
+[30]     0.5    0.04    0.00  714648         .bpa_log_msg (bpautils.c:58 @ 10003d78) [30]
+-----------------------------------------------
+                0.00    0.00    2098/403431      oahttslf_insert (oahttslf.c:227 @ 10003148) [73]
+                0.00    0.00   21949/403431      oahttslf_insert (oahttslf.c:198 @ 10003050) [72]
+                0.03    0.00  379384/403431      oahttslf_insert_indices (knapsack_oahttslf.c:192 @ 100013b4) [27]
+[36]     0.4    0.03    0.00  403431         .oahttslf_insert (oahttslf.c:176 @ 10002f0c) [36]
+-----------------------------------------------
+                0.02    0.00  671174/671174      oahttslf_lookup_indices (knapsack_oahttslf.c:217 @ 10001468) [24]
+[43]     0.3    0.02    0.00  671174         .oahttslf_lookup (oahttslf.c:247 @ 1000319c) [43]
+-----------------------------------------------
+                0.00    0.00  419103/1063836     oahttslf_insert (oahttslf.c:185 @ 10002f80) [41]
+                0.01    0.00  644733/1063836     oahttslf_lookup (oahttslf.c:252 @ 100031c0) [28]
+[53]     0.1    0.01    0.00 1063836         .oahttslf_getent (oahttslf.c:282 @ 10003258) [53]
+-----------------------------------------------
+                0.00    0.00 1037488/2166307     oahttslf_getent (oahttslf.c:285 @ 1000327c) [244]
+                0.00    0.00 1128819/2166307     hash_function (oahttslf.c:139 @ 10002ec0) [8]
+[77]     0.0    0.00    0.00 2166307         .main (knapsack_oahttslf.c:548 @ 10002090) [77]
+-----------------------------------------------
+                0.00    0.00  338837/929463      dp_knapsack (knapsack_oahttslf.c:357 @ 100019e0) [147]
+                0.00    0.00  590626/929463      dp_knapsack (knapsack_oahttslf.c:317 @ 10001680) [143]
+[78]     0.0    0.00    0.00  929463         .__gmon_start__ [78]
+-----------------------------------------------
+                0.00    0.00       5/5           dp_knapsack_thread_master (knapsack_oahttslf.c:405 @ 10001b44) [168]
+[79]     0.0    0.00    0.00       5         data_start [79]
+-----------------------------------------------
+                0.00    0.00       1/1           readdata (knapsack_oahttslf.c:501 @ 10001e88) [346]
+[80]     0.0    0.00    0.00       1         .bpa_malloc (bpautils.c:74 @ 10003e2c) [80]
+-----------------------------------------------
+                0.00    0.00       1/1           main (knapsack_oahttslf.c:642 @ 10002510) [76]
+[81]     0.0    0.00    0.00       1         .oahttslf_total_key_count (oahttslf.c:421 @ 1000378c) [81]
+-----------------------------------------------
+                0.00    0.00       1/1           main (knapsack_oahttslf.c:649 @ 10002538) [235]
+[82]     0.0    0.00    0.00       1         .oahttslf_total_retry_count (oahttslf.c:438 @ 10003828) [82]
+-----------------------------------------------
+                0.00    0.00       1/1           main (knapsack_oahttslf.c:634 @ 10002414) [229]
+[83]     0.0    0.00    0.00       1         .timeval_subtract (bpautils.c:130 @ 10004000) [83]
+-----------------------------------------------
+
+ This table describes the call tree of the program, and was sorted by
+ the total amount of time spent in each function and its children.
+
+ Each entry in this table consists of several lines.  The line with the
+ index number at the left hand margin lists the current function.
+ The lines above it list the functions that called this function,
+ and the lines below it list the functions this one called.
+ This line lists:
+     index	A unique number given to each element of the table.
+		Index numbers are sorted numerically.
+		The index number is printed next to every function name so
+		it is easier to look up where the function in the table.
+
+     % time	This is the percentage of the `total' time that was spent
+		in this function and its children.  Note that due to
+		different viewpoints, functions excluded by options, etc,
+		these numbers will NOT add up to 100%.
+
+     self	This is the total amount of time spent in this function.
+
+     children	This is the total amount of time propagated into this
+		function by its children.
+
+     called	This is the number of times the function was called.
+		If the function called itself recursively, the number
+		only includes non-recursive calls, and is followed by
+		a `+' and the number of recursive calls.
+
+     name	The name of the current function.  The index number is
+		printed after it.  If the function is a member of a
+		cycle, the cycle number is printed between the
+		function's name and the index number.
+
+
+ For the function's parents, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the function into this parent.
+
+     children	This is the amount of time that was propagated from
+		the function's children into this parent.
+
+     called	This is the number of times this parent called the
+		function `/' the total number of times the function
+		was called.  Recursive calls to the function are not
+		included in the number after the `/'.
+
+     name	This is the name of the parent.  The parent's index
+		number is printed after it.  If the parent is a
+		member of a cycle, the cycle number is printed between
+		the name and the index number.
+
+ If the parents of the function cannot be determined, the word
+ `<spontaneous>' is printed in the `name' field, and all the other
+ fields are blank.
+
+ For the function's children, the fields have the following meanings:
+
+     self	This is the amount of time that was propagated directly
+		from the child into the function.
+
+     children	This is the amount of time that was propagated from the
+		child's children to the function.
+
+     called	This is the number of times the function called
+		this child `/' the total number of times the child
+		was called.  Recursive calls by the child are not
+		listed in the number after the `/'.
+
+     name	This is the name of the child.  The child's index
+		number is printed after it.  If the child is a
+		member of a cycle, the cycle number is printed
+		between the name and the index number.
+
+ If there are any cycles (circles) in the call graph, there is an
+ entry for the cycle-as-a-whole.  This entry shows who called the
+ cycle (as parents) and the members of the cycle (as children.)
+ The `+' recursive calls entry shows the number of function calls that
+ were internal to the cycle, and the calls entry for each member shows,
+ for that member, how many times it was called from other members of
+ the cycle.
+
+
+Index by function name
+
+  [78] .__gmon_start__        [44] dp_knapsack (knapsack_oahttslf.c:359 @ 10001a24) [1] oahttslf_insert (oahttslf.c:194 @ 10002fe8)
+  [30] .bpa_log_msg (bpautils.c:58 @ 10003d78) [57] hash6432shift (oahttslf.c:121 @ 10002dd4) [61] oahttslf_insert (oahttslf.c:196 @ 1000301c)
+  [80] .bpa_malloc (bpautils.c:74 @ 10003e2c) [13] hash6432shift (oahttslf.c:122 @ 10002df4) [62] oahttslf_insert (oahttslf.c:209 @ 10003074)
+  [26] .dp_knapsack (knapsack_oahttslf.c:308 @ 10001618) [19] hash6432shift (oahttslf.c:123 @ 10002e0c) [48] oahttslf_insert (oahttslf.c:212 @ 1000307c)
+  [77] .main (knapsack_oahttslf.c:548 @ 10002090) [20] hash6432shift (oahttslf.c:124 @ 10002e20) [63] oahttslf_insert (oahttslf.c:225 @ 100030fc)
+  [53] .oahttslf_getent (oahttslf.c:282 @ 10003258) [32] hash6432shift (oahttslf.c:125 @ 10002e3c) [4] oahttslf_insert (oahttslf.c:226 @ 10003108)
+  [36] .oahttslf_insert (oahttslf.c:176 @ 10002f0c) [45] hash6432shift (oahttslf.c:126 @ 10002e50) [23] oahttslf_insert (oahttslf.c:231 @ 1000316c)
+  [43] .oahttslf_lookup (oahttslf.c:247 @ 1000319c) [7] hash6432shift (oahttslf.c:127 @ 10002e64) [64] oahttslf_insert (oahttslf.c:232 @ 10003178)
+  [81] .oahttslf_total_key_count (oahttslf.c:421 @ 1000378c) [15] hash6432shift (oahttslf.c:129 @ 10002e7c) [65] oahttslf_insert_indices (knapsack_oahttslf.c:186 @ 10001304)
+  [82] .oahttslf_total_retry_count (oahttslf.c:438 @ 10003828) [33] hash_function (oahttslf.c:134 @ 10002ea0) [49] oahttslf_insert_indices (knapsack_oahttslf.c:189 @ 10001340)
+  [83] .timeval_subtract (bpautils.c:130 @ 10004000) [8] hash_function (oahttslf.c:139 @ 10002ec0) [27] oahttslf_insert_indices (knapsack_oahttslf.c:192 @ 100013b4)
+  [54] bpa_log_msg (bpautils.c:62 @ 10003dbc) [21] hash_function (oahttslf.c:146 @ 10002ee0) [50] oahttslf_insert_indices (knapsack_oahttslf.c:193 @ 100013d0)
+  [31] bpa_log_msg (bpautils.c:68 @ 10003e0c) [10] hash_function (oahttslf.c:147 @ 10002ee8) [28] oahttslf_lookup (oahttslf.c:252 @ 100031c0)
+  [79] data_start             [11] oahttslf_getent (oahttslf.c:288 @ 10003284) [66] oahttslf_lookup (oahttslf.c:253 @ 100031dc)
+  [35] dp_knapsack (knapsack_oahttslf.c:313 @ 10001650) [6] oahttslf_getent (oahttslf.c:289 @ 10003294) [40] oahttslf_lookup (oahttslf.c:255 @ 100031e8)
+   [9] dp_knapsack (knapsack_oahttslf.c:320 @ 100016b0) [3] oahttslf_getent (oahttslf.c:290 @ 100032b0) [67] oahttslf_lookup (oahttslf.c:256 @ 100031f4)
+  [55] dp_knapsack (knapsack_oahttslf.c:322 @ 100016dc) [58] oahttslf_getent (oahttslf.c:295 @ 100032e0) [68] oahttslf_lookup (oahttslf.c:262 @ 10003228)
+  [37] dp_knapsack (knapsack_oahttslf.c:325 @ 100016ec) [2] oahttslf_getent (oahttslf.c:291 @ 10003308) [51] oahttslf_lookup (oahttslf.c:263 @ 10003234)
+   [5] dp_knapsack (knapsack_oahttslf.c:329 @ 10001710) [22] oahttslf_getent (oahttslf.c:298 @ 10003338) [16] oahttslf_lookup_indices (knapsack_oahttslf.c:211 @ 100013f0)
+  [56] dp_knapsack (knapsack_oahttslf.c:335 @ 1000177c) [46] oahttslf_getent (oahttslf.c:300 @ 10003358) [14] oahttslf_lookup_indices (knapsack_oahttslf.c:215 @ 10001420)
+  [42] dp_knapsack (knapsack_oahttslf.c:337 @ 100017b4) [39] oahttslf_getent (oahttslf.c:303 @ 10003374) [24] oahttslf_lookup_indices (knapsack_oahttslf.c:217 @ 10001468)
+  [18] dp_knapsack (knapsack_oahttslf.c:338 @ 100017ec) [47] oahttslf_getent (oahttslf.c:304 @ 10003380) [17] oahttslf_lookup_indices (knapsack_oahttslf.c:218 @ 10001484)
+  [25] dp_knapsack (knapsack_oahttslf.c:343 @ 1000187c) [34] oahttslf_getent (oahttslf.c:305 @ 1000338c) [69] oahttslf_lookup_indices (knapsack_oahttslf.c:220 @ 100014c4)
+  [38] dp_knapsack (knapsack_oahttslf.c:347 @ 10001940) [41] oahttslf_insert (oahttslf.c:185 @ 10002f80) [70] oahttslf_lookup_indices (knapsack_oahttslf.c:221 @ 100014cc)
+  [29] dp_knapsack (knapsack_oahttslf.c:352 @ 10001970) [59] oahttslf_insert (oahttslf.c:190 @ 10002fc0)
+  [12] dp_knapsack (knapsack_oahttslf.c:355 @ 100019ac) [60] oahttslf_insert (oahttslf.c:192 @ 10002fd8)

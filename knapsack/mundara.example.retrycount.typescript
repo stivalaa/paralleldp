@@ -1,0 +1,13 @@
+Script started on Mon 28 Dec 2009 11:50:06 AM EST
+[astivala@mundara] knapsack [2:51] collect -d /var/tmp knapsack_oahttslf  -r7 -y  < instances/gen.4.500.500.2
+Creating experiment database /var/tmp/test.12.er ...
+INSTRUMENT hc=1438676,re=1285295,re/hc=0.893387,hn=1331930,or=31941
+2526 1285295 1438676 6604 908 ry gen.4.500.500.2
+[astivala@mundara] knapsack [2:52] 
+[astivala@mundara] knapsack [2:52] collect -d /var/tmp knapsack_oahttslf -r32  - y < instances/gen.4.500.500.2
+Creating experiment database /var/tmp/test.13.er ...
+INSTRUMENT hc=2185743,re=1960257,re/hc=0.896838,hn=1331930,or=200837
+2526 1960257 2185743 13636 453 ry gen.4.500.500.2
+[astivala@mundara] knapsack [2:53] exit
+
+script done on Mon 28 Dec 2009 11:50:56 AM EST

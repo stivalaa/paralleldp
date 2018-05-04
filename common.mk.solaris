@@ -1,0 +1,69 @@
+###############################################################################
+#
+# File      : common.mk.solaris
+# Author    : Alex Stivala (astivala)
+# Created   : April 2009
+#
+# $Id: Makefile 1690 2008-07-16 04:35:47Z astivala $
+#
+# Definitions of compilers and compile options for Solaris.
+# (Developed on 
+# SunOS mundara 5.10 Generic_137111-02 sun4v sparc SUNW,Sun-Fire-T200 Solaris
+# with
+# cc: Sun C 5.9 SunOS_sparc Patch 124867-07 2008/06/24)
+#
+# Use GNU make.
+#
+# The _XOPEN_SOURCE and _XOPEN_SOURCE_EXTENDED defines are set to 1 to
+# to allow certain prototypes to be included properly and indicate
+# that the program is to work with the X/Open XPG4v2 (SUS)
+# standard. Specifically, this wasy getopt() will compile and work
+# nicely with no warnings on Solaris, and also allow the use of
+# strcasecmp() and strdup() with no warnings. 
+#
+# set MODE=DEBUG to build with debugging and profiling on. Otherwise
+# default is to build with optimizations on and no debug or profile.
+#
+#
+###############################################################################
+
+
+CC         = /opt/SUNWspro/bin/cc
+CPPFLAGS   = -D_XOPEN_SOURCE=1 -D_XOPEN_SOURCE_EXTENDED=1 -DSOLARIS -DSPARC
+CPPFLAGS  += -DUSE_INSTRUMENT
+CDEBUG = -O3 -xhwcprof -xdebugformat=dwarf -g
+COPTIMIZE  = -O3 
+#CFLAGS     =  -m64 -fpic
+#CFLAGS     =  -mt
+CFLAGS     =
+ifeq ($(MODE),DEBUG)
+    CFLAGS     += $(CDEBUG)
+else
+    CFLAGS     += $(COPTIMIZE)
+endif
+#              the following warnings are not implied by -Wall
+#CFLAGS     += -Wextra -Wfloat-equal  \
+              -Wdeclaration-after-statement -Wundef -Wshadow \
+              -Wpointer-arith -Wbad-function-cast -Wcast-qual -Wcast-align\
+              -Wwrite-strings -Wmissing-prototypes \
+              -Wmissing-declarations -Wunreachable-code
+
+PTHREAD_CFLAGS = -mt -DUSE_THREADING
+INLINE_ASM = sparc_mcas.il
+LD         = /opt/SUNWspro/bin/cc 
+#LDFLAGS    =  -m64 -G 
+#LDFLAGS    =   -mt -lpthread  -lrt -lmtmalloc
+LDFLAGS    =  
+ifeq ($(MODE),DEBUG)
+    LDFLAGS +=   -O3 -xhwcprof -xdebugformat=dwarf -g
+endif
+LDLIBPATH  =
+LDLIBS     = -lm -lumem
+PTHREAD_LDFLAGS = -mt -lpthread
+
+MAKEDEPEND = gcc -MM $(CPPFLAGS)
+DEPENDFILE = .depend
+
+# Program to build TAGS file for EMACS
+MAKETAGS   = etags
+

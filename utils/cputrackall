@@ -1,0 +1,127 @@
+#!/bin/perl -w
+
+# perl script to list out the hardware performance counters 
+# on a system in csv format
+
+# Darryl Gove
+# http://blogs.sun.com/d/
+# 14 October 2009
+
+@cputrack=`/bin/cputrack -h`;
+
+$resultsfile="";
+$repeats=1;
+while ($command=shift @ARGV)
+{
+  if ($command eq '-o') {$resultsfile=shift @ARGV; next;}
+  if ($command eq '-r') {$repeats = shift @ARGV; next;}
+  $arguments .=" ".$command;
+}
+
+if (!defined($arguments))
+{
+  print "$0 -- cputrackall [-o resultfile] [-r rpt] <app> <params>\n";
+  print "Run application under all hardware performance counters\n";
+  print "  -o specify a file to place results into\n";
+  print "  -r gather data for each counter multiple times\n";
+  exit;
+}
+
+# Gather all the names of the counters from cputrack
+
+$track = 0;
+while ($line=shift @cputrack)
+{
+  if ($line=~m/PAPI/) {next;}
+  if ($line=~m/event\[*\d+\-*\d*\]*:/) {$track=1;}
+  if ($line=~m/attributes:/) {$track=0;}
+  if ($track==1)
+  {
+    if ($line=~m/event(\d+):/)            {$hwcstart=$1;$hwcstop=$1;}
+    if ($line=~m/event\[(\d+)\-(\d+)\]:/) {$hwcstart=$1;$hwcstop=$2;}
+    @words = split ' ',$line;
+    while ($word = shift @words)
+    {
+      if ($word!~m/event\[*\d+\-*\d*\]*:/)
+      {
+        for ($count=$hwcstart; $count<=$hwcstop; $count++)
+        {
+          push @{$hwc[$count]},$word;
+        }
+      }
+    }
+  }
+}
+
+# Identify the maximum number of hardware event counters
+# This determines the number of runs performed
+$maxcounters=0;
+for ($count=0; $count<=$#hwc; $count++)
+{
+  if ( $#{$hwc[$count]} >$maxcounters) { $maxcounters= $#{ $hwc[$count] }; }
+}
+
+use POSIX;
+$outputfile = POSIX::tmpnam();
+
+if ($resultsfile ne "")
+{
+  open(RESULT,">$resultsfile");
+}
+# Do the cputrack runs
+for ($count2=0; $count2<=$maxcounters; $count2++)
+{
+  # Set up variables for run
+  $prev=0;
+  $command = "/bin/cputrack -o $outputfile -c ";
+  $header = "Time,";
+  $filter = "(\\d+.\\d*)\\s+\\d+\\s+exit\\s+(";
+  for ($count=0; $count<=$#hwc; $count++) 
+  {
+     if ( $#{$hwc[$count]} >=$count2) 
+     { 
+       if ($prev==1) { $command.= ",";$header.=",";$filter.="\\s+";}
+       $command .= "pic$count=".$hwc[$count][$count2]; 
+       $header .="$hwc[$count][$count2]";
+       $filter .="\\d+";
+       $prev=1;
+     }
+  }
+  $filter.=")";
+  $header.="\n";
+  $command .="$arguments\n";
+  
+  # Do each individual run
+  for ($repeatcount=0; $repeatcount<$repeats; $repeatcount++)
+  {
+    `$command`;
+    # Post process the output
+    open(FILE,$outputfile);
+    while ($line=<FILE>)
+    {  
+      if ($line=~m/$filter/) 
+      { 
+        $time = $1;
+        $result = $2;
+        $result=~s/\s+/,/g;
+        if ($resultsfile ne "")
+        {
+          print RESULT $header.$time.",".$result."\n";
+        }
+        else
+        {
+            print $header.$time.",".$result."\n";
+        }
+      }
+    }
+    close(FILE);
+    $header=""; # Only want one header per set of data
+  }
+}
+
+if ($resultsfile ne "")
+{
+  close(RESULT);
+}
+unlink $outputfile;
+

@@ -1,0 +1,15 @@
+Experiment to try to implement Hofacker et al. 2004 RNA struct align dp 
+with parallel dp using lockfree hashtables.
+
+double/ contains the (original) version that does everything in double
+        precision floating point
+
+integer/ contains the version modified to do the dyanmic programming part
+         with integer arithmetic
+
+NB (as of July 2009), only using integer (since UltraSPARC T1 not scalable
+with doulbe due to shared FPUs), so double/ code is out of date (changes
+made only in integer/ version. [TODO: merge back into double/ or remove it]
+
+ADS
+Tue Apr  7 14:00:53 EST 2009

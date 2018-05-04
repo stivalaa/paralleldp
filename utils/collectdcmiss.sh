@@ -1,0 +1,1 @@
+ n=1; while [ $n -le 32 ]; do i=1; while [ $i -le 10 ]; do cputrack -c DC_miss  oahttslftest $n > mundara_output/dcmisstest_${n}_${i}.out 2> mundara_output/dcmisstest_${n}_${i}.err; i=`expr $i + 1`; done; n=`expr $n + 1`; done
