@@ -11,7 +11,7 @@ authors:
 - family-names: "Hermenegildo"
   given-names: "Manuel"
 - family-names: "Wirth"
-  given-names: "Tony"
+  given-names: "Anthony"
 title: "Lock-free parallel dynamic programming"
 url: https://github.com/stivalaa/paralleldp
 preferred-citation:
