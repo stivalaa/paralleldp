@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stivala"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-2442-4743"
+- family-names: "Stuckey"
+  given-names: "Peter"
+- family-names: "Garcia de la Banda"
+  given-names: "Maria"
+- family-names: "Hermenegildo"
+  given-names: "Manuel"
+- family-names: "Wirth"
+  given-names: "Tony"
+title: "Lock-free parallel dynamic programming"
+url: https://github.com/stivalaa/paralleldp
+preferred-citation:
+  type: article
+  title: "Lock-free parallel dynamic programming"
+  authors:
+    - family-names: "Stivala"
+      given-names: "Alex"
+      orcid: "https://orcid.org/0000-0002-2442-4743"
+    - family-names: "Stuckey"
+      given-names: "Peter"
+    - family-names: "Garcia de la Banda"
+      given-names: "Maria"
+    - family-names: "Hermenegildo"
+      given-names: "Manuel"
+    - family-names: "Wirth"
+      given-names: "Tony"
+  doi: 10.1016/j.jpdc.2010.01.004
+  journal: Journal of Parallel and Distributed Computing
+  year: 2010
+  volume: 70
+  issue: 8
+  start: 839
+  end: 848
